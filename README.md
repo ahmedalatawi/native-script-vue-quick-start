@@ -2,6 +2,12 @@
 
 ![](./images/phone-show.gif)
 
+## Run Hello World app locally
+1. `git clone https://github.com/AhmedAlatawi/NativeScript-Vue-Quick-Start.git`
+2. `cd NativeScript-Vue-Quick-Start`
+3. `npm i`
+4. `tns run`
+
 ### When starting with NativeScript and Vue from scratch, follow these steps for local development setup:
 
 1. Make sure that [Node.JS](https://nodejs.org/en/) is installed on your machine globally. Open your command prompt terminal, and run `node -v` to confirm.
