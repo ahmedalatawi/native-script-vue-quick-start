@@ -14,7 +14,7 @@
 
 2. Execute `npm install -g nativescript` in your command prompt terminal. This will install NativeScript CLI on your machine globally. After installation is done, run `tns` to ensure NativeScript CLI was installed successfully.
 
-3. For Windows 7 or later, open your command prompt terminal as an administrator (Windows key --> type "cmd" --> right click --> Run as Administrator), and run the following script:
+3. For Windows 7 or later, open your command prompt terminal as an administrator (right click --> Run as Administrator), and run the following script:
 ```bash
 @powershell -NoProfile -ExecutionPolicy Bypass -Command "iex ((new-object net.webclient).DownloadString('https://www.nativescript.org/setup/win'))"
 ```
