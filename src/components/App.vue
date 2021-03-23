@@ -12,12 +12,12 @@
             </TabViewItem>
             <TabViewItem title="Tab 2">
                 <GridLayout columns="*" rows="*">
-                    <Label class="message" text="Tab 2 Content" col="0" row="0"/>
+                    <Label class="message" text="Hello world from tab 2" col="0" row="0"/>
                 </GridLayout>
             </TabViewItem>
             <TabViewItem title="Tab 3">
                 <GridLayout columns="*" rows="*">
-                    <Label class="message" text="Tab 3 Content" col="0" row="0"/>
+                    <Label class="message" text="Hello world from tab 3" col="0" row="0"/>
                 </GridLayout>
             </TabViewItem>
         </TabView>
@@ -28,7 +28,7 @@
   export default {
     data() {
       return {
-        msg: 'Hello World!'
+        msg: 'Hello world from tab 1'
       }
     }
   }
